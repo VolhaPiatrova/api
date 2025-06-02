@@ -1,5 +1,5 @@
 # Тестирование API
 1. Тестирование API Product  
-https://www.postman.com/technical-administrator-59540941/workspace/my-test-course-workspace/collection/43040118-99c014e3-659b-4738-813f-6b38306ecefc?action=share&creator=43040118&active-environment=43040118-54efc7ee-b569-479f-8b97-8d66e66d4872
+https://www.postman.com/technical-administrator-59540941/my-test-course-workspace/collection/dac8lm8/demoshopping?action=share&creator=43040118&active-environment=43040118-54efc7ee-b569-479f-8b97-8d66e66d4872
 2. Тестирование SOAP Country info service  
 https://www.postman.com/technical-administrator-59540941/workspace/my-test-course-workspace/collection/43040118-e1a36ebe-c2d3-4bf7-af7e-41136163bef1?action=share&creator=43040118&active-environment=43040118-54efc7ee-b569-479f-8b97-8d66e66d4872
