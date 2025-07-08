@@ -6,7 +6,7 @@
       The public collection in my Postman workspace (for the Product module, I have written automated tests that can verify the following: the status code after sending a request, the response body (including data type checks), and changes to keys and values for POST requests).  
       https://www.postman.com/technical-administrator-59540941/workspace/my-test-course-workspace/folder/43040118-b8828583-47cd-48e1-81b2-a8ab23ead686?action=share&creator=43040118&ctx=documentation&active-environment=43040118-54efc7ee-b569-479f-8b97-8d66e66d4872
    
-      1.2. Test cases for API (data was imported from the Qase system where i originally created it)  
+      1.2. Test cases for API (data was imported from the Qase system where i originally created it, methods i used:  GET, POST, PUT, PATCH, DELETE)  
       https://github.com/VolhaPiatrova/api/blob/main/TestCasesAPI.pdf
 
       1.3. The created tests were run using the Run Collection function, and the test results were exported in JSON format.  
